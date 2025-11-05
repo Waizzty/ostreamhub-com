@@ -19,4 +19,4 @@ OStreamHub stands out because it acts like a consolidated radar for global cultu
 
 ## Try It Yourself  
 
-To experience the platform and its real‑time trends, visit [OStreamHub.com](https://www.ostreamhub.com/) directly. The site loads quickly and displays a clean, easy‑to‑navigate interface where you can dive into global trends and discover what people around the world are watching and discussing. 
+To experience the platform and its real‑time trends, visit [OStreamHub.com Global Trending Videos](https://www.ostreamhub.com) directly. The site loads quickly and displays a clean, easy‑to‑navigate interface where you can dive into global trends and discover what people around the world are watching and discussing. 
